@@ -54,7 +54,6 @@ li {
   margin: 0 10px;
 }
 a {
-  padding: 20px;
   color: #018642;
 }
 </style>
